@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "OuvrierPro CI",
+    "slug": "ouvrierpro-ci",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "ci.ouvrierpro.app",
+      "versionCode": 1,
+      "permissions": [
+        "CALL_PHONE"
+      ]
+    },
+    "splash": {
+      "backgroundColor": "#FFF7F0"
+    }
+  }
+}
